@@ -26,7 +26,7 @@ I'm a Computer Engineer :computer:
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corgosinn&count_private=true&show_icons=true&theme=cobalt)](https://github.com/corgosinn/github-readme-stats)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corgosinn&langs_count=8)](https://github.com/corgosinn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corgosinn&langs_count=6)](https://github.com/corgosinn/github-readme-stats)
 
 
 
