@@ -32,9 +32,11 @@ I'm a Computer Engineer :computer:
 
  <img src="https://img.shields.io/badge/-npm-CC3534?logo=npm&logoColor=white&labelColor=CC3534" alt="npm" />
 - ⚡ My contributions:
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corgosinn)](https://github.com/anuraghazra/github-readme-stats)
 <center>
 <table>
   <tr>
+   
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corgosinn&hide=html&layout=compact" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=corgosinn&count_private=true" /></td>
   </tr>
