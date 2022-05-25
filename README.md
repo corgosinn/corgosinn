@@ -28,18 +28,10 @@ I'm a Computer Engineer :computer:
 
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&labelColor=336791" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL" /> <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&labelColor=003B57" alt="SQLite" />
 
-**Others Technologies:**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corgosinn)](https://github.com/anuraghazra/github-readme-stats)
- <img src="https://img.shields.io/badge/-npm-CC3534?logo=npm&logoColor=white&labelColor=CC3534" alt="npm" />
+**About:**
 - ⚡ My contributions:
-<center>
-<table>
-  <tr>
-   
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corgosinn&hide=html&layout=compact" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=corgosinn&count_private=true" /></td>
-  </tr>
-</table>
-</center>
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=corgosinn&count_private=true&show_icons=true](https://github-readme-stats.vercel.app/api?username=corgosinn&count_private=true&show_icons=true&theme=cobalt))
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corgosinn&label=Profile%20views&color=0e75b6&style=flat" alt="corgosinn" /> </p>
