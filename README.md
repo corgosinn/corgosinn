@@ -28,8 +28,11 @@ I'm a Computer Engineer :computer:
 
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&labelColor=336791" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL" /> <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&labelColor=003B57" alt="SQLite" />
 
+
 **About:**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corgosinn&count_private=true&show_icons=true&theme=cobalt)](https://github.com/corgosinn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corgosinn&langs_count=8)](https://github.com/corgosinn/github-readme-stats)
+
 
 - ⚡ My contributions:
 
