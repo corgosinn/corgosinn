@@ -4,8 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-thiago.acto@hotmail.com-0078D4?logo=microsoft-outlook&logoColor=white&labelColor=0078D4&link=mailto:thiago.acto@hotmail.com)](mailto:thiago.acto@hotmail.com)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up? 
-I'm Thiago Corgosinho
-I'm a Computer Engineer :computer:
+I'm Thiago Corgosinho :computer:
 
 - :rocket:   I’m currently studying on Universidade Federal de Ouro Preto ( UFOP )
 - 💬   Ask me about everything :beer:
