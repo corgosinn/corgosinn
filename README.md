@@ -3,6 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-thiago.acto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.acto@gmail.com)](mailto:thiago.acto@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-thiago.acto@hotmail.com-0078D4?logo=microsoft-outlook&logoColor=white&labelColor=0078D4&link=mailto:thiago.acto@hotmail.com)](mailto:thiago.acto@hotmail.com)
 
+
+
+GITLAB USER:
+https://gitlab.com/corgosinn
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up? 
 I'm Thiago Corgosinho :computer:
 
@@ -10,22 +15,6 @@ I'm Thiago Corgosinho :computer:
 - 💬   Ask me about everything :beer:
 - 🔭 My portfolio: working in progress
 - :computer: Technologies:
-
-
-**Versioning and Communication:**
-
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&labelColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-
-**Databases:**
-
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&labelColor=336791" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL" /> <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&labelColor=003B57" alt="SQLite" />
-
-
-**About:**
-##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corgosinn&count_private=true&show_icons=true&theme=cobalt)](https://github.com/corgosinn/github-readme-stats)
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corgosinn&langs_count=6)](https://github.com/corgosinn/github-readme-stats)
 
 
 
